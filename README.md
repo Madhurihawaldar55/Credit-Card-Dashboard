@@ -2,6 +2,15 @@
                                                             
 # Project Overview
 This Power BI dashboard analyzes customer demographics, loan adoption patterns, transaction behavior, and credit card performance to derive actionable business insights.
+Project Objective
+
+As part of this task, I required to build two
+interactive Power BI dashboards from the provided
+datasets. The dashboards should provide actionable
+insights and be filtered by gender (Male/Female). The
+primary focus is to create meaningful visualizations
+based on key metrics related to Credit Card
+Customers and Credit Card Transactions.
 # Tools Used
 - Power BI
 - DAX
